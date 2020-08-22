@@ -10,10 +10,10 @@
 </p>
 
 <h3>Abstract</h3>
-<p>This article aims to present and compare solutions for music infor-mation retrieval.  The intention is to analyze solutions that do not necessarilysearch for musical data only through direct marriage of input parameters to thesearch, such as song title, keywords or an audio with part of the song, but alsothrough approximate (or similar) these parameters.</p>
+<p>This article aims to present and compare solutions for music information retrieval. The intention is to analyze solutions that do not necessarily search for musical data only through direct marriage of input parameters to the search, such as song title, keywords or an audio with part of the song, but also through approximate (or similar) these parameters.</p>
 
 <h3>Resumo</h3>
-<p>Este artigo visa apresentar e comparar soluc ̧ ̃oes para recuperac ̧ ̃ao deinformac ̧ ̃ao musical.  A intenc ̧ ̃ao ́e analisar soluc ̧ ̃oes que n ̃ao necessariamentebuscam dados musicais apenas atrav ́es do casamento direto de parˆametros deentrada para a busca, como t ́ıtulo da m ́usica, palavras-chave ou um ́audio comoparte da m ́usica, mas tamb ́em atrav ́es do casamento aproximado (ou similar)destes parˆametros.</p>
+<p>Este artigo visa apresentar e comparar soluções para recuperação de informação musical. A intenção é analisar soluções que não necessariamente buscam dados musicais apenas através do casamento direto de parâmetros de entrada para a busca, como título da música, palavras-chave ou um áudio como parte da música, mas também através do casamento aproximado (ou similar) destes parâmetros.</p>
 <br/>
 <a href="https://repositorio.ufsc.br/handle/123456789/192180" rel="nofollow">See publication</a>
 <br/>
