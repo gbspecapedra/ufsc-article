@@ -19,4 +19,4 @@
 <br/>
 <hr/>
 <br/>
-<p> ⭐ This project was written using the <em>ufscThesis</em> template in LaTeX, for the preparation of academic papers in the format defined by the University Library of the Federal University of Santa Catarina. The template was created by the authors Roberto Simoni and Carlos R Rocha. This template was designed for free use by the entire academic community at UFSC and other interested parties. Users can copy, study, analyze, modify and pass the changes on to other users, as long as they keep the credits of the authors of the original version, as stated in the GPL license. More info <a href="https://github.com/gisabernardess/ufsc-tcc/blob/master/CONTRIBUTING.md" rel="nofollow">here</a>.</p>
+<p> ⭐ This project was written using the <em>sbc-template</em> in LaTeX, for the preparation of academic papers in the format defined by the University Library of the Federal University of Santa Catarina.</p>
